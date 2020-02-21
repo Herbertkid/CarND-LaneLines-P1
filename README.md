@@ -28,6 +28,7 @@ My pipeline consisted of 5 steps.
 First, I converted the images to grayscale for edge detection.
 Grayscale images:
 ![Grayscale](./examples/grayscale.jpg)
+
 Second I used Gaussian Blur withkernel size of 5 to smoothen the image, so that to use Canny Edge Detector which uses the pixel gradient values and filters the image according to the Lower and Higher threshold provided to find out the edges of the lanes.
 
 Third select the region of interest. I use the size of the image to set my region by a polygon of trapeziodal shape focusing on the lower part where the probability of finding lane is more.
