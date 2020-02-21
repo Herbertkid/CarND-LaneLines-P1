@@ -14,7 +14,6 @@ The goals / steps of this project are the following:
 ###overview
 As a driver, when we drive our vehicle we usually need to identify lanes of the road. So that to keep the vehicle in the constraints of the lane. And for self driving vehicle is also a important task to detect lane lines.Also very simple Lane Detection pipeline is possible with simple Computer Vision techniques. The project use computer vision techniques to test lane lines detection.
 
-![output sample][./examples/laneLines_thirdPass.jpg]
 ![Grayscale](./examples/grayscale.jpg)
 
 ---
