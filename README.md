@@ -48,7 +48,9 @@ At last draw the lanes on the original Image as shown in the Output Directory.
 shown as below:
 ![output sample](./line-solidWhiteRight.jpg)
 ![output sample](./line-whiteCarLaneSwitch.jpg)
-video: [output video](./solodYellowLeft.mp4)
+video:
+[output video](./solidYellowLeft.mp4)
+
 ### 2. Shortcomings
 
 For curved lane that Hough Lines based on straight lines don't work well.
